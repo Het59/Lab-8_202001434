@@ -112,17 +112,17 @@ public int lengthInInches(){
 ```
 Adding new method:
 
-**Testing for lengthInInches()**
-I created the two test case for lengthininches() function and then using junit testing method.
-code:
+**Testing for lengthInInches()**<br>
+  I created the two test case for lengthininches() function and then using junit testing method.<br>
+  code:
 
-```
-@Test
-public void lengthInInches() {
-  int output = jen.lengthInInches(); 
-  assertEquals(output, 24);
-}
-```
+  ```
+  @Test
+  public void lengthInInches() {
+    int output = jen.lengthInInches(); 
+    assertEquals(output, 24);
+  }
+  ```
 **1.lengthInInches_1()**
 ![image](https://user-images.githubusercontent.com/124347145/233614512-bc801b1f-62f7-444a-8666-e5ac5b2215c5.png)
 
